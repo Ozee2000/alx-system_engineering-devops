@@ -1,0 +1,2 @@
+tail -n 1 iacta >> iacta
+you can echo the text in the task to create iacta file
